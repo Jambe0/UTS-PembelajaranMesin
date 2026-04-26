@@ -6,7 +6,7 @@ https://www.kaggle.com/datasets/joshmcadams/oranges-vs-grapefruit
 
 ## Dataset
 Dataset berisi 10.000 data dengan 6 kolom:
-- `name` - label kelas
+- `name`
 - `diameter`
 - `weight`
 - `red`
