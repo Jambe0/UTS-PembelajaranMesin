@@ -1,6 +1,7 @@
 # Klasifikasi Buah Orange dan Grapefruit
-
-Tugas UTS ini bertujuan membangun model klasifikasi untuk membedakan buah orange dan grapefruit
+Muhammad Jalallullail
+1237050025
+Tugas ini bertujuan membangun model klasifikasi untuk membedakan buah orange dan grapefruit
 
 ## Dataset
 Dataset berisi 10.000 data dengan 6 kolom:
