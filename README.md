@@ -1,4 +1,3 @@
-## Klasifikasi Buah Orange dan Grapefruit
 ## Muhammad Jalallullail - 1237050025
 
 Tugas ini bertujuan membangun model klasifikasi untuk membedakan buah orange dan grapefruit
