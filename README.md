@@ -51,6 +51,7 @@ Dengan konfigurasi `train_test_split(test_size=0.2, random_state=42, stratify=y)
 ## Hasil Confusion Matrix
 
 Confusion Matrix - Decision Tree:
+
 <img src="results/Confusion_Matrix_Decision_Tree.png" width="300">
 
 Decision Tree memiliki jumlah prediksi benar yang sangat tinggi pada kedua kelas. Kesalahan klasifikasi relatif kecil dan seimbang. Hal ini menunjukkan bahwa model mampu memisahkan data dengan baik, sesuai konsep Decision Tree yang memilih atribut terbaik berdasarkan information gain sehingga menghasilkan pemisahan yang optimal .
@@ -59,6 +60,7 @@ Kesimpulan:
 Model ini paling stabil dan akurat untuk klasifikasi langsung.
 
 Confusion Matrix - Naive Bayes:
+
 <img src="results/Confusion_Matrix_Naive_Bayes.png" width="300">
 
 Naive Bayes memiliki kesalahan yang lebih besar dibanding Decision Tree, terutama pada false negative (81). Ini berarti model cukup sering gagal mengenali kelas orange.
@@ -67,6 +69,7 @@ Kesimpulan:
 Model ini cukup baik.
 
 Confusion Matrix - SVM:
+
 <img src="results/Confusion_Matrix_SVM.png" width="300">
 
 SVM memiliki performa yang seimbang dan cukup tinggi. Model ini bekerja dengan mencari hyperplane optimal yang memisahkan dua kelas dengan margin maksimum.
