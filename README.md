@@ -1,8 +1,8 @@
-# Klasifikasi Buah Orange dan Grapefruit
-***Muhammad Jalallullail***
-**1237050025**
+## Klasifikasi Buah Orange dan Grapefruit
+## Muhammad Jalallullail - 1237050025
 
 Tugas ini bertujuan membangun model klasifikasi untuk membedakan buah orange dan grapefruit
+https://www.kaggle.com/datasets/joshmcadams/oranges-vs-grapefruit
 
 ## Dataset
 Dataset berisi 10.000 data dengan 6 kolom:
